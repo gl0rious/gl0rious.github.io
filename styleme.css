@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #4b4637;
+    color: #d9d3b5;
+    margin: 0;
+    padding: 0;
+    /* text-align: center; */
+}
+
+h1 {
+    color: #90bddb;
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.highlight {
+    color: #f0c13e;
+    font-weight: bold;
+}
+
+ul {
+    /* list-style-type: none; */
+    padding: 0;
+}
+
+a {
+    color: #f23a3a;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.content {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.section-title {
+    font-size: 24px;
+    color: #90bddb;
+    margin-top: 30px;
+}
+
+.mood img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+}
+
+.fun-facts {
+    text-align: left;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #d9d3b5;
+    margin: 20px 0;
+}
